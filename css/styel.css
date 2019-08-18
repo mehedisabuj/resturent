@@ -1,0 +1,88 @@
+
+body{
+
+ 	margin:50px 50px 100px 50px;
+ 	padding: 0;
+ 	clear: both;
+}
+h1{
+	color: white;
+	font-family: arirll;
+}
+
+nav{
+	
+	margin-bottom: 10px;
+	width: 962px;
+	height: 53px;
+	
+	}
+
+a:hover {
+	
+	
+	color:#ff8000;
+	
+	padding:20px;
+
+}
+a{
+	color:#662400;
+	float: left;
+	padding: 20px;
+	margin-left: 35px;
+}
+
+}
+section{
+	background-color: black; 
+	width: 1043px;
+	height: 552px;
+
+	}
+h3{
+	color:#ed6a00;
+}
+.word{
+	width: 55%;
+	height: 552px;
+	float: left;
+	padding: 5px;
+}
+
+.menu{
+	width: 45%;
+	height: 552px;
+	float:right;
+	
+}
+.photo{
+	width: 30%;
+	float: left;
+	padding-top: 28px;
+}
+.pera{
+	width: 70%;
+	float: left;
+}
+
+footer{
+	color:white;
+	 padding:5; 
+}
+.des{
+	float: left;
+	
+	width: 40%;
+}
+.foot{
+	float: left;
+	text-align: right;
+	width: 60%;
+	
+}
+
+
+li{
+	display: inline;
+	}
